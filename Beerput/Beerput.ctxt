@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Beerput
+comment0.text=\r\n\ Beheer\ systeem\ voor\ je\ beerput.\r\n\r\n\ @author\ (Tom\ Verpooten\ )\r\n\ @version\ (0.00.001a)\r\n
+comment1.params=Inhoud
+comment1.target=Beerput(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Beerput\r\n
+comment2.params=_HoeVol
+comment2.target=void\ setVullen(int)
+comment2.text=\r\n\ Geeft\ de\ aantal\ liters\ op\ waar\ mee\ de\ beerput\ is\ gevult.\r\n
+comment3.params=
+comment3.target=void\ leegmaken()
+comment4.params=
+comment4.target=int\ getInhoud()
+numComments=5
